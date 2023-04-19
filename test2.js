@@ -3,3 +3,4 @@ let result = base ** exponent;
 return result
 }
 console.log(power(2,3))
+module.exports = power
